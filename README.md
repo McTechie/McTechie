@@ -1,4 +1,6 @@
-# Hey There, I'm Mcvean! :man_technologist:
+# Hey There, I'm Mcvean! 
+
+<img align="right" width="175" height="175" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/male-technologist-type-3_1f468-1f3fc-200d-1f4bb.png"></img>
 
 :book: I'm an engineering student at VESIT (University of Mumbai)
 
@@ -8,7 +10,7 @@
 
 :seedling: I'm currently learning React for Front-end Web Development
 
-:ghost: Besides programming, I love watching Anime and reading Manga
+:beginner: Besides programming, I love watching Anime and reading Manga
 
 ---
 ## Technologies :joystick:
