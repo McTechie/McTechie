@@ -1,6 +1,6 @@
 # Hey There, I'm Mcvean! <img width="50" height="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/male-technologist-type-3_1f468-1f3fc-200d-1f4bb.png" />
 
-<a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"><img align="right" width="150" height="150" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a>
+<a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"><img align="right" width="175" height="175" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a>
 <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"><img align="right" width="175" height="175" src="https://images.youracclaim.com/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="GoogleITA badge"></img> </a>
 
 :book: I'm an engineering student at VESIT (University of Mumbai)
