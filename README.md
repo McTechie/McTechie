@@ -3,7 +3,7 @@
 #### Welcome to my GitHub profile!
 
 <a href="https://github.com/mcs-codes/Certis" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mcs-codes&repo=Certis&theme=chartreuse-dark" alt="Stats" align="right" width="375" /></a>
-I'm an engineering student :mortar_board: at VESIT (University of Mumbai) and <br> I :black_heart: programming. Web Development &amp; AI / Deep Learning <br> fascinate me :zap:! I'm currently learning :seedling: Express and MongoDB for Back-end Web <br> Development. Besides programming, I love watching Anime and <br> reading Manga! :beginner:
+I'm an engineering student :mortar_board: at VESIT (University of Mumbai) and <br> I :black_heart: programming. Web Development &amp; AI / Deep Learning <br> fascinate me :zap:! I'm currently learning :seedling: Express and MongoDB for Back-end Web Development. Besides programming, I love watching Anime and <br> reading Manga! :beginner:
 </img>
 <br>
 
