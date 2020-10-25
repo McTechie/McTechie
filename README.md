@@ -3,12 +3,12 @@
 ### Welcome to my GitHub profile!
 
 :mortar_board: I'm an engineering student at VESIT (University of Mumbai) <br>
-:zap: Full-Stack Development &amp; AI / Deep Learning fascinate me. <br>
+:zap: Full-Stack Development &amp; AI / Deep Learning fascinate me :laughing: <br>
 :seedling: I'm currently learning Flutter for Multi-platform App Development! <br>
-:beginner: Besides programming, you may find me reading books or watching Anime! <br>
+&nbsp;:beginner: Besides programming, you may find me reading books or watching Anime! <br>
 :fleur_de_lis: I hope to develop fascinating solutions to modern world problems (Or atleast try to :smiley:!)
 
-## Some jargon ~
+## :man_technologist: Some jargon
 
 <a href="https://github.com/mcs-codes/Certis" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mcs-codes&repo=Certis&theme=chartreuse-dark" alt="Stats" align="right" width="375" /></a>
 ###  :globe_with_meridians: Web Development : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" alt="HTML5" />](https://en.wikipedia.org/wiki/HTML5) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" alt="CSS3" />](https://en.wikipedia.org/wiki/CSS) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30" alt="Sass" />](https://sass-lang.com) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" alt="Nodejs" />](https://nodejs.org/en/)
