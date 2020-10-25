@@ -3,10 +3,10 @@
 ### Welcome to my GitHub profile!
 
 :mortar_board: I'm an engineering student at VESIT (University of Mumbai) <br>
-:zap: Full-Stack Development &amp; AI / Deep Learning <br> fascinate me. <br>
-:seedling: I'm currently learning Dart Programming for Flutter Development! <br>
+:zap: Full-Stack Development &amp; AI / Deep Learning fascinate me. <br>
+:seedling: I'm currently learning Flutter for Multi-platform App Development! <br>
 :beginner: Besides programming, you may find me reading books or watching Anime! <br>
-:fleur_de_lis: I hope to develop fascinating solutions to modern world problems (Or atleast try to :smiley:)
+:fleur_de_lis: I hope to develop fascinating solutions to modern world problems (Or atleast try to :smiley:!)
 
 ## Some jargon ~
 
