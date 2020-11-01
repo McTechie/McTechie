@@ -4,7 +4,7 @@
 
 :mortar_board: I'm an engineering student at VESIT (University of Mumbai) <br>
 :zap: Full-Stack Development &amp; AI / Deep Learning fascinate me :laughing: <br>
-:seedling: I'm currently learning Flutter for Multi-platform App Development! <br>
+:seedling: I'm currently learning Flutter for Mobile App Development! <br>
 &nbsp;:beginner: Besides programming, you may find me reading books or watching Anime! <br>
 :fleur_de_lis: I hope to develop fascinating solutions to modern world problems (Or atleast try to :smiley:!)
 
@@ -19,7 +19,7 @@
 
 ### :file_cabinet:&nbsp; Back End : [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" align="center" width="30" alt="Firebase" />](https://firebase.google.com/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" alt="Nodejs" />](https://nodejs.org/en/)
 
-### :joystick: Other Tools : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" width="30" alt="Atom" />](https://atom.io/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" alt="VS Code" />](https://code.visualstudio.com/) [<img src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" align="center" width="30" alt="Postman" />](https://www.postman.com/) [<img src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" align="center" width="30" alt="Jupyter" />](https://jupyter.org/)
+### :joystick: Other Tools : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" width="35" alt="Atom" />](https://atom.io/) [<img align="center" src="https://avatars1.githubusercontent.com/u/11727320?s=40&v=4" width="40" alt="Android Studio" />](https://developer.android.com/studio) [<img src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" align="center" width="30" alt="Postman" />](https://www.postman.com/) [<img src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" align="center" width="30" alt="Jupyter" />](https://jupyter.org/)
 
 ### :name_badge: Acclaim Badges : <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"><img align="center" width="30" height="30" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a> <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"><img align="center" width="30" height="30" src="https://images.youracclaim.com/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="GoogleITA badge"></img> </a>
 
