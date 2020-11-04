@@ -10,6 +10,8 @@
 
 ## :man_technologist: Some necessary jargon ~
 
+<img align="right" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" />
+
 ### :speech_balloon: Languages : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" alt="Python" />](https://www.python.org/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="30" alt="Dart" />](https://www.dart.dev/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)
 
 ### :desktop_computer: Front End : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" alt="HTML5" />](https://en.wikipedia.org/wiki/HTML5) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" alt="CSS3" />](https://en.wikipedia.org/wiki/CSS) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30" alt="Sass" />](https://sass-lang.com) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="50" height="30" alt="jQuery" />](https://jquery.com/)
