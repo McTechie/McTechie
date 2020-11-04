@@ -10,7 +10,6 @@
 
 ## :man_technologist: Some necessary jargon ~
 
-<a href="https://github.com/mcs-codes/Certis" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mcs-codes&repo=Certis&theme=chartreuse-dark" alt="Stats" align="right" width="375" /></a>
 ### :speech_balloon: Languages : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" alt="Python" />](https://www.python.org/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="30" alt="Dart" />](https://www.dart.dev/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)
 
 ### :desktop_computer: Front End : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" alt="HTML5" />](https://en.wikipedia.org/wiki/HTML5) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" alt="CSS3" />](https://en.wikipedia.org/wiki/CSS) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30" alt="Sass" />](https://sass-lang.com) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="50" height="30" alt="jQuery" />](https://jquery.com/)
@@ -23,4 +22,18 @@
 
 ### :name_badge: Acclaim Badges : <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"><img align="center" width="30" height="30" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a> <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"><img align="center" width="30" height="30" src="https://images.youracclaim.com/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="GoogleITA badge"></img> </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mcs-codes&show_icons=true&theme=chartreuse-dark" alt="Stats" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-codes&layout=compact&theme=chartreuse-dark" alt="Top-Langs" align="center" />
+## :chart_with_upwards_trend: GitHub Stats
+
+<details>
+  <summary>📊 Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mcs-codes&show_icons=true&theme=chartreuse-dark" alt="Stats" align="center" /></a>
+</details>
+
+<details> 
+  <summary>💻 Languages</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-codes&layout=compact&theme=chartreuse-dark" alt="Top-Langs" align="center" /></a>
+  <br/>
+  <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
+</details>
