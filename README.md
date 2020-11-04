@@ -6,7 +6,7 @@
 :zap: Full-Stack Development &amp; AI / Deep Learning fascinate me :laughing: <br>
 :seedling: I'm currently learning Flutter for Mobile App Development! <br>
 &nbsp;:beginner: Besides programming, you may find me reading books or watching Anime! <br>
-:fleur_de_lis: I hope to develop fascinating solutions to modern world problems (Or atleast try to :smiley:!)
+:fleur_de_lis: I hope to develop fascinating solutions to modern world problems (Or atleast try to! :smiley:)
 
 ## :man_technologist: Some necessary jargon ~
 
