@@ -29,19 +29,19 @@
 <details>
   <summary>:chart_with_upwards_trend: Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mcs-codes&show_icons=true&theme=chartreuse-dark" alt="Stats" align="center" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mcs-codes&show_icons=true&theme=chartreuse-dark" alt="Stats" align="center" />
 </details>
 
 <details>
   <summary>:fire: GitHub Streak</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mcs-codes&theme=dark" alt="Stats" align="center" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcs-codes&theme=dark" alt="Stats" align="center" />
 </details>
 
 <details> 
   <summary>:abacus: Most Used Languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-codes&layout=compact&theme=chartreuse-dark" alt="Top-Langs" align="center" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-codes&layout=compact&theme=chartreuse-dark" alt="Top-Langs" align="center" />
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 </details>
