@@ -29,19 +29,19 @@
 <details>
   <summary>:chart_with_upwards_trend: Profile Stats</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mcs-codes&show_icons=true&theme=chartreuse-dark" alt="Stats" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mcs-codes&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" />
 </details>
 
 <details>
   <summary>:fire: GitHub Streak</summary>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcs-codes&theme=dark" alt="Stats" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcs-codes&theme=dark" alt="GitHub Streak" align="center" />
 </details>
 
 <details> 
   <summary>:abacus: Most Used Languages</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-codes&layout=compact&theme=chartreuse-dark" alt="Top-Langs" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-codes&layout=compact&theme=chartreuse-dark&langs_count=5&exclude_repo=DL_Coursera,TensorFlow_Dev" alt="GitHub Top-Langs" align="center" />
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 </details>
