@@ -27,26 +27,36 @@
 
 ### :joystick: Other Tools : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" width="35" alt="Atom" />](https://atom.io/) [<img align="center" src="https://avatars1.githubusercontent.com/u/11727320?s=40&v=4" width="38" alt="Android Studio" />](https://developer.android.com/studio) [<img src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" align="center" width="30" alt="Postman" />](https://www.postman.com/)
 
-### :name_badge: Acclaim Badges : <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"><img align="center" width="30" height="30" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a> <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"><img align="center" width="30" height="30" src="https://images.youracclaim.com/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="GoogleITA badge"></img> </a>
-
-## :bar_chart: My GitHub Stats
+## :bar_chart: My GitHub Stats, Blogs, and Work
 
 <details>
   <summary>:chart_with_upwards_trend: Profile Stats</summary>
-  <br/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mcs-codes&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" />
-</details>
-
-<details>
-  <summary>:fire: GitHub Streak</summary>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcs-codes&theme=dark" alt="GitHub Streak" align="center" />
 </details>
 
 <details> 
   <summary>:abacus: Most Used Languages</summary>
-  <br/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-codes&layout=compact&theme=chartreuse-dark&langs_count=5&exclude_repo=DL_Coursera,TensorFlow_Dev" alt="GitHub Top-Langs" align="center" />
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
+</details>
+
+<details>
+  <summary>:fire: GitHub Streak</summary>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcs-codes&theme=dark" alt="GitHub Streak" align="center" />
+</details>
+
+<details>
+  <summary>:right_anger_bubble: A few of my blogs</summary>
+  <br>
+  1. <a href="https://dev.to/mcscodes/series/9852">Becoming a Python Developer</a> <br>
+</details>
+
+<details>
+  <summary>:name_badge: Acclaim Badges</summary>
+  <br>
+  <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"><img align="center" width="150" height="150" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a> <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"><img align="center" width="150" height="150" src="https://images.youracclaim.com/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="GoogleITA badge"></img> </a>
 </details>
