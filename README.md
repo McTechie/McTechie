@@ -52,11 +52,11 @@
 <details>
   <summary>:right_anger_bubble: A few of my blogs</summary>
   <br>
-  1. <a href="https://dev.to/mcscodes/series/9852">Becoming a Python Developer</a> <br>
+  1. <a href="https://dev.to/mcscodes/series/9852" target="_blank">Becoming a Python Developer</a> <br>
 </details>
 
 <details>
   <summary>:name_badge: Acclaim Badges</summary>
   <br>
-  <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"><img align="center" width="150" height="150" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a> <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"><img align="center" width="150" height="150" src="https://images.youracclaim.com/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="GoogleITA badge"></img> </a>
+  <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"  target="_blank"><img align="center" width="150" height="150" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a> <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"  target="_blank"><img align="center" width="150" height="150" src="https://images.youracclaim.com/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="GoogleITA badge"></img> </a>
 </details>
