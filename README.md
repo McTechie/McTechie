@@ -1,8 +1,8 @@
 # Hey There, I'm Mcvean :wave:
 
-### Welcome to my GitHub profile!
+<img align="right" src="assets/dashboard.svg" height="300" />
 
-<img align="left" src="assets/dashboard.svg" height="300" />
+### Welcome to my GitHub profile!
 
 :mortar_board: I'm an engineering student at VESIT (University of Mumbai) <br>
 :zap: Full-Stack Development &amp; AI / Deep Learning fascinate me :laughing: <br>
