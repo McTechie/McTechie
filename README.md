@@ -10,12 +10,11 @@
 
 ## :man_technologist: Some necessary jargon ~
 
-<img align="right" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" height="300" />
+<img align="right" src="assets/dashboard.svg" height="300" />
 
 ### :speech_balloon: Languages : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" alt="Python" />](https://www.python.org/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="30" alt="Dart" />](https://www.dart.dev/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)
 
 ### :desktop_computer: Front End : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" alt="HTML5" />](https://en.wikipedia.org/wiki/HTML5) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" alt="CSS3" />](https://en.wikipedia.org/wiki/CSS) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30" alt="Sass" />](https://sass-lang.com) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="50" height="30" alt="jQuery" />](https://jquery.com/)
-
 
 ### :file_cabinet:&nbsp; Back End : [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" align="center" width="30" alt="Firebase" />](https://firebase.google.com/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" alt="Nodejs" />](https://nodejs.org/en/)
 
@@ -28,6 +27,8 @@
 ### :joystick: Other Tools : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" width="35" alt="Atom" />](https://atom.io/) [<img align="center" src="https://avatars1.githubusercontent.com/u/11727320?s=40&v=4" width="38" alt="Android Studio" />](https://developer.android.com/studio) [<img src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" align="center" width="30" alt="Postman" />](https://www.postman.com/)
 
 ## :bar_chart: My GitHub Stats, Blogs, and Work
+
+<img align="right" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" height="180" />
 
 <details>
   <summary>:chart_with_upwards_trend: Profile Stats</summary>
