@@ -50,7 +50,7 @@
 </details>
 
 <details>
-  <summary>:right_anger_bubble: A few of my blogs</summary>
+  <summary>:right_anger_bubble: Check out my blog series'</summary>
   <br>
   1. <a href="https://dev.to/mcscodes/series/9852" target="_blank">Becoming a Python Developer</a> <br>
 </details>
