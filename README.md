@@ -1,6 +1,6 @@
-# Hey There, I'm Mcvean :wave:
-
 <img align="right" src="assets/dashboard.svg" height="300" />
+
+# Hey There, I'm Mcvean :wave:
 
 ### Welcome to my GitHub profile!
 
