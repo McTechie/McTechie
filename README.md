@@ -1,4 +1,4 @@
-<img align="right" src="assets/hobby.svg" height="300" />
+<img align="right" src="assets/hobby.svg" height="400" />
 
 # Hey There, I'm Mcvean :wave:
 
@@ -12,7 +12,7 @@
 
 ## :man_technologist: Some necessary jargon ~
 
-<img align="right" src="assets/dashboard.svg" height="300" />
+<img align="right" src="assets/dashboard.svg" height="400" />
 <!-- <img align="right" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" height="300" /> -->
 
 ### :speech_balloon: Languages : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" alt="Python" />](https://www.python.org/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="30" alt="Dart" />](https://www.dart.dev/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)
@@ -29,7 +29,27 @@
 
 ### :joystick: Other Tools : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" width="35" alt="Atom" />](https://atom.io/) [<img align="center" src="https://avatars1.githubusercontent.com/u/11727320?s=40&v=4" width="38" alt="Android Studio" />](https://developer.android.com/studio) [<img src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" align="center" width="30" alt="Postman" />](https://www.postman.com/)
 
-## :bar_chart: My GitHub Stats, Blogs, and Work
+## :ghost: My Blogs, GitHub stats and other jargon
+<img align="right" src="assets/work.svg" height="400" />
+
+<details open>
+  <summary><a href="https://dev.to/mcscodes">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mcvean Soans's DEV Profile" height="20" width="20">
+  </a> My Dev Blog posts</summary>
+  <br>
+  1. <a href="https://dev.to/mcscodes/python-preamble-127m" target="_blank">Python: Preamble</a> <br>
+  2. <a href="https://dev.to/mcscodes/python-memory-management-hcb" target="_blank">Python: Memory Management</a> <br>
+  3. <a href="https://dev.to/mcscodes/how-python-sees-variables-869" target="_blank">How Python Sees Variables</a> <br>
+  4. <a href="https://dev.to/mcscodes/datatypes-and-mutability-in-python-4266" target="_blank">Mastering Datatypes in Python</a> <br>
+  <br>
+  ...<a href="https://dev.to/mcscodes" target="_blank">Check out some other posts too!</a> <br>
+</details>
+
+<details>
+  <summary>:name_badge: Acclaim Badges</summary>
+  <br>
+  <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"  target="_blank"><img align="center" width="150" height="150" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a> <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"  target="_blank"><img align="center" width="150" height="150" src="https://images.youracclaim.com/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="GoogleITA badge"></img> </a>
+</details>
 
 <details>
   <summary>:chart_with_upwards_trend: Profile Stats</summary>
@@ -49,23 +69,4 @@
   <summary>:fire: GitHub Streak</summary>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcs-codes&theme=dark" alt="GitHub Streak" align="center" />
-</details>
-
-<details>
-  <summary><a href="https://dev.to/mcscodes">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mcvean Soans's DEV Profile" height="20" width="20">
-  </a> My Dev Blog posts</summary>
-  <br>
-  1. <a href="https://dev.to/mcscodes/python-preamble-127m" target="_blank">Python: Preamble</a> <br>
-  2. <a href="https://dev.to/mcscodes/python-memory-management-hcb" target="_blank">Python: Memory Management</a> <br>
-  3. <a href="https://dev.to/mcscodes/how-python-sees-variables-869" target="_blank">How Python Sees Variables</a> <br>
-  4. <a href="https://dev.to/mcscodes/datatypes-and-mutability-in-python-4266" target="_blank">Mastering Datatypes in Python</a> <br>
-  <br>
-  ...<a href="https://dev.to/mcscodes" target="_blank">Check out some other posts too!</a> <br>
-</details>
-
-<details>
-  <summary>:name_badge: Acclaim Badges</summary>
-  <br>
-  <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"  target="_blank"><img align="center" width="150" height="150" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a> <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"  target="_blank"><img align="center" width="150" height="150" src="https://images.youracclaim.com/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="GoogleITA badge"></img> </a>
 </details>
