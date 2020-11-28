@@ -7,12 +7,13 @@
 :mortar_board: I'm an engineering student at VESIT (University of Mumbai) <br>
 :zap: Full-Stack Development &amp; AI / Deep Learning fascinate me :laughing: <br>
 :seedling: I'm currently learning Flutter for Mobile App Development! <br>
-&nbsp;:beginner: Besides programming, you may find me reading books or watching Anime! <br>
+&nbsp;:beginner: Besides programming, you may find me reading books, watching Anime, or just jamming with my guitar! <br>
 :fleur_de_lis: I hope to develop fascinating solutions to solve modern world problems (Or atleast try to! :smiley:)
 
 ## :man_technologist: Some necessary jargon ~
 
-<img align="right" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" height="300" />
+<img align="right" src="assets/dashboard.svg" height="400" />
+<!-- <img align="right" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" height="300" /> -->
 
 ### :speech_balloon: Languages : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" alt="Python" />](https://www.python.org/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="30" alt="Dart" />](https://www.dart.dev/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" alt="JS" />](https://en.wikipedia.org/wiki/JavaScript)
 
