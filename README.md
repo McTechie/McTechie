@@ -30,7 +30,7 @@
 ### :joystick: Other Tools : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" width="35" alt="Atom" />](https://atom.io/) [<img align="center" src="https://avatars1.githubusercontent.com/u/11727320?s=40&v=4" width="38" alt="Android Studio" />](https://developer.android.com/studio) [<img src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" align="center" width="30" alt="Postman" />](https://www.postman.com/)
 
 ## :ghost: My Blogs and GitHub Summary
-<img align="right" src="assets/work.svg" height="400" />
+<img align="right" src="assets/work.svg" height="350" />
 
 <details open>
   <summary><a href="https://dev.to/mcscodes">
