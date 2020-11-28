@@ -4,7 +4,7 @@
 
 ### Welcome to my GitHub profile!
 
-:mortar_board: I'm an engineering student at VESIT (University of Mumbai) <br>
+<!-- :mortar_board: I'm an engineering student at VESIT (University of Mumbai) <br> -->
 :zap: Full-Stack Development &amp; AI / Deep Learning fascinate me :laughing: <br>
 :seedling: I'm currently learning Flutter for Mobile App Development! <br>
 &nbsp;:beginner: Besides programming, you may find me reading books, watching Anime, or just jamming with my guitar! <br>
