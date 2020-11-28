@@ -1,4 +1,4 @@
-<img align="right" src="assets/dashboard.svg" height="300" />
+<img align="right" src="assets/hobby.svg" height="300" />
 
 # Hey There, I'm Mcvean :wave:
 
