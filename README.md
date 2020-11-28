@@ -8,7 +8,7 @@
 :zap: Full-Stack Development &amp; AI / Deep Learning fascinate me :laughing: <br>
 :seedling: I'm currently learning Flutter for Mobile App Development! <br>
 &nbsp;:beginner: Besides programming, you may find me reading books or watching Anime! <br>
-:fleur_de_lis: I hope to develop fascinating solutions to modern world problems (Or atleast try to! :smiley:)
+:fleur_de_lis: I hope to develop fascinating solutions to solve modern world problems (Or atleast try to! :smiley:)
 
 ## :man_technologist: Some necessary jargon ~
 
@@ -51,9 +51,16 @@
 </details>
 
 <details>
-  <summary>:right_anger_bubble: Check out my blog series'</summary>
+  <summary><a href="https://dev.to/mcscodes">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mcvean Soans's DEV Profile" height="20" width="20">
+  </a> My Dev Blog posts</summary>
   <br>
-  1. <a href="https://dev.to/mcscodes/series/9852" target="_blank">Becoming a Python Developer</a> <br>
+  1. <a href="https://dev.to/mcscodes/python-preamble-127m" target="_blank">Python: Preamble</a> <br>
+  2. <a href="https://dev.to/mcscodes/python-memory-management-hcb" target="_blank">Python: Memory Management</a> <br>
+  3. <a href="https://dev.to/mcscodes/how-python-sees-variables-869" target="_blank">How Python Sees Variables</a> <br>
+  4. <a href="https://dev.to/mcscodes/datatypes-and-mutability-in-python-4266" target="_blank">Mastering Datatypes in Python</a> <br>
+  <br>
+  ...<a href="https://dev.to/mcscodes" target="_blank">Check out some other posts too!</a> <br>
 </details>
 
 <details>
