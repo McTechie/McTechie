@@ -1,6 +1,6 @@
-<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
+<img align="right" src="assets/hobby.svg" height="300" />
 
-# Hey There, I'm Mcvean :wave:
+<h1> Hey There, I'm Mcvean <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50"> </h1>
 
 ### Welcome to my GitHub profile!
 
