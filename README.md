@@ -6,7 +6,7 @@
 
 <!-- :mortar_board: I'm an engineering student at VESIT (University of Mumbai) <br> -->
 :zap: Full-Stack Development &amp; AI / Deep Learning fascinate me :laughing: <br>
-:seedling: I'm currently learning Flutter for Mobile App Development! <br>
+:seedling: I'm currently learning **Kotlin** &amp; **Flutter** for Mobile App Development! <br>
 &nbsp;:beginner: Besides programming, you may find me reading books, watching Anime, or just jamming with my guitar! <br>
 :fleur_de_lis: I hope to develop fascinating solutions to solve modern world problems (Or atleast try to! :smiley:)
 
