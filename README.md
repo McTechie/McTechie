@@ -34,13 +34,13 @@
 <img align="right" src="assets/work.svg" height="350" />
 
 <details open>
-  <summary><a href="https://dev.to/mcscodes">
+  <summary><a href="https://dev.to/mctechie">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mcvean Soans's DEV Profile" height="20" width="20">
   </a> My Dev Blog posts</summary>
   <br>
-  1. <a href="https://dev.to/mcscodes/python-preamble-127m" target="_blank">Python: Preamble</a> <br>
-  2. <a href="https://dev.to/mcscodes/how-python-sees-variables-869" target="_blank">How Python Sees Variables</a> <br>
-  3. <a href="https://dev.to/mcscodes/datatypes-and-mutability-in-python-4266" target="_blank">Mastering Datatypes in Python</a> <br>
+  1. <a href="https://dev.to/mctechie/python-preamble-127m" target="_blank">Python: Preamble</a> <br>
+  2. <a href="https://dev.to/mctechie/how-python-sees-variables-869" target="_blank">How Python Sees Variables</a> <br>
+  3. <a href="https://dev.to/mctechie/datatypes-and-mutability-in-python-4266" target="_blank">Mastering Datatypes in Python</a> <br>
   <br>
   ...<a href="https://dev.to/mcscodes" target="_blank">Check out some other posts too!</a> <br>
 </details>
@@ -54,13 +54,13 @@
 <details>
   <summary>:chart_with_upwards_trend: Profile Stats</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mcs-codes&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=McTechie&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" />
 </details>
 
 <details> 
   <summary>:abacus: Most Used Languages</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcs-codes&layout=compact&theme=chartreuse-dark&langs_count=5&exclude_repo=DL_Coursera,TensorFlow_Dev" alt="GitHub Top-Langs" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McTechie&layout=compact&theme=chartreuse-dark&langs_count=5&exclude_repo=DL_Coursera,TensorFlow_Dev" alt="GitHub Top-Langs" align="center" />
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 </details>
@@ -68,5 +68,5 @@
 <details>
   <summary>:fire: GitHub Streak</summary>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcs-codes&theme=dark" alt="GitHub Streak" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=McTechie&theme=dark" alt="GitHub Streak" align="center" />
 </details>
