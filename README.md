@@ -48,7 +48,7 @@
 <details>
   <summary>:name_badge: Acclaim Badges</summary>
   <br>
-  <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"  target="_blank"><img align="center" width="150" height="150" src="https://images.youracclaim.com/size/110x110/images/5772b390-e2aa-416e-b384-97598d4e3e0a/GoogleITcompletionbadge.png" alt="GoogleITS badge"></img> </a> <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"  target="_blank"><img align="center" width="150" height="150" src="https://images.youracclaim.com/images/874ab998-8a42-408d-b493-a8764b1fe91c/GIT_201.png" alt="GoogleITA badge"></img> </a>
+  <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b/public_url"  target="_blank"><img align="center" width="150" height="150" src="https://images.credly.com/size/680x680/images/98991f46-4c06-4f8b-a3ff-02a7e8768bb2/Google_Certs_IT.png" alt="GoogleITS badge"></img> </a> <a href="https://www.youracclaim.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567/public_url"  target="_blank"><img align="center" width="150" height="150" src="https://images.credly.com/size/680x680/images/edc3e3ad-2aed-42c7-85bb-f7a351e41f3f/IT_Automation_with_Python_2_2x__1_.png" alt="GoogleITA badge"></img> </a>
 </details>
 
 <details>
