@@ -7,7 +7,7 @@
 
 <!-- :mortar_board: I'm an engineering student at VESIT (University of Mumbai) <br> -->
 :zap: Full-Stack Development &amp; AI / Deep Learning fascinate me :laughing: <br>
-:seedling: I'm currently learning **NextJS** &amp; **Gatsby** for React Development! <br>
+:seedling: I'm currently learning **NextJS** &amp; **AWS** Cloud Infrastructure! <br>
 &nbsp;:beginner: Besides programming, you may find me reading books, watching Anime, or just jamming with my guitar! <br>
 :fleur_de_lis: I hope to develop fascinating solutions to solve modern world problems (Or atleast try to! :smiley:)
 
