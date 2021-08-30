@@ -58,7 +58,7 @@
 <details> 
   <summary>:abacus: Most Used Languages</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McTechie&layout=compact&theme=chartreuse-dark&langs_count=5&exclude_repo=DL_Coursera,TensorFlow_Dev" alt="GitHub Top-Langs" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McTechie&layout=compact&theme=chartreuse-dark&langs_count=6&hide=jupyter%20notebook,css" alt="GitHub Top-Langs" align="center" />
   <br/>
   <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
 </details>
