@@ -6,7 +6,7 @@
 ### A few forms I assume ~
 
 :superhero_man: A Superhero in building performant, empathetic and modular apps! <br>
-:mage_man: I'm very skilled in casting any spell at my disposal to make apps better! <br>
+:mage_man: Skilled in casting any spell at my disposal to make apps better! <br>
 :vampire: I enjoy DRY-ing up codebases! <br>
 :genie: Need help with something? I've got you covered! <br>
 :elf_man: Reading books? Writing Blogs? Anime? I love them all! <br>
