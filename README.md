@@ -38,4 +38,13 @@
 
 <a href="https://www.youracclaim.com/badges/8bacbf87-9761-48de-b717-28d96ca2317b"  target="_blank"><img align="center" width="180" height="180" src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support badge"></img> </a> <a href="https://www.credly.com/badges/5cb30816-afc3-48ac-8b11-168dd7d2b567" target="_blank"><img align="center" width="180" height="180" src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Google IT Automation badge"></img> </a> <a href="https://www.credly.com/badges/613b6362-82c6-4835-b2c0-652e80fc8dc1" target="_blank"><img align="center" width="160" height="160" src="https://images.credly.com/size/340x340/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" alt="Meta Full Stack Engineer badge"></img> </a> <a href="https://www.credly.com/badges/2737b7bf-4287-44e5-9a03-72ddd8f88f98" target="_blank"><img align="center" width="160" height="160" src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" alt="Meta Frontend Developer badge"></img> </a> <a href="https://www.credly.com/badges/9de83017-515a-451b-8e30-d5d00a11ec05" target="_blank"><img align="center" width="160" height="160" src="https://images.credly.com/size/340x340/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" alt="Meta Backend Developer badge"></img> </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=McTechie&theme=dark" alt="GitHub Streak" align="center" /> <img src="https://github-readme-stats.vercel.app/api?username=McTechie&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=McTechie&theme=dark" alt="GitHub Streak" align="center" /> 
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=McTechie&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" />
+    </td>
+  </tr>
+</table>
