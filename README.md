@@ -56,14 +56,3 @@
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=McTechie&theme=dark" alt="GitHub Streak" align="center" /> 
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=McTechie&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" />
-    </td>
-  </tr>
-</table>
